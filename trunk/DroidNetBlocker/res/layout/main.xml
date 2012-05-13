@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/bcgr">
+    <Button
+        android:id="@+id/rbutton"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="38dp"
+        android:layout_x="13dp"
+        android:layout_y="100dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Block GTalkService"
+        android:textColor="#190707" />
+
+    <Button
+        android:id="@+id/rbutton1"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_x="13dp"
+        android:layout_y="300dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Unblock GTalkService"
+        android:textColor="#190707" />
+
+    <Button
+        android:id="@+id/rbutton2"
+        android:layout_width="290dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="39dp"
+        android:layout_x="13dp"
+        android:layout_y="200dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Start Google Play"
+        android:textColor="#190707" />
+
+    <TextView
+        android:id="@+id/is_block"
+        android:background="@drawable/back"
+        android:layout_width="115dp"
+        android:layout_height="37dp"
+        android:layout_x="193dp"
+        android:layout_y="11dp"
+        android:paddingLeft="3dip"
+        android:textStyle="bold"
+        android:width="400dip" />
+
+</AbsoluteLayout>

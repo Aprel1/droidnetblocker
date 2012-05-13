@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DroidNetBlockerActivity!</string>
+      <string name="widget_text">DNB Widget!</string>
+    <string name="app_name">DroidNetBlocker</string>
+    <color name="yellow1">#DEEA3B</color>
+    <color name="yellow2">#FDEA3B</color>
+    <color name="grey">#FFFFCC</color>
+    <color name="orange1">#FFCB66</color>
+    <color name="orange2">#FFEA66</color>
+    <color name="blue1">#5A7AE0</color>
+    <color name="blue2">#5AB1E0</color>
+    <color name="bcgr">#08355A</color>
+    <string name="uid">UID</string>
+    <string name="app">App name</string>
+    <string name="Accept">Accept</string>
+    <string name="selall">Select all </string>
+    <string name="desel">Deselect all</string>
+    <string name="update">Update</string>
+    <string name="ip">IP</string>
+    <string name="pname">App </string>
+    <string name="prot">Prot</string>
+    <string name="st">Status</string>
+    <string name="widget_label">Start Play Store with DroidNetBlocker</string>
+    <string name="block_time">Set time to wait after closing PlayStore. In this time gtalkservice will be unblocked and your downloads can be finished. After that is gtalservice blocked</string>
+
+</resources>
