@@ -1,0 +1,1 @@
+Allows to block GTalk Service. You can use  this app also as an firewall and as network monitor.
